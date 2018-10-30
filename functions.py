@@ -20,3 +20,15 @@
 #
 #         actions_detail[i].append(action)
 #         added_actions.append(action[0])
+
+# =====================================
+
+# import matplotlib.pyplot as plt
+# import numpy as np
+#
+#
+#
+# for temp in actions_detailed:
+#     np_actions = np.array(temp)
+#     plt.plot(np_actions[:, 0], np_actions[:, 1])
+#     plt.show()
